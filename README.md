@@ -75,7 +75,7 @@ INSERT INTO STUDENT (name, marks) VALUES
 ## ▶️ Running the App
 
 ```bash
-streamlit run app.py
+streamlit run bettersqlApp.py
 ```
 
 Then open the app in your browser and choose:
