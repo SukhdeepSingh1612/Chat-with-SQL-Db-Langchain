@@ -2,6 +2,8 @@
 
 This project allows you to **chat with your SQL database (SQLite or MySQL)** using [LangChain](https://www.langchain.com/), [Groq’s Llama3](https://groq.com/), and [Streamlit](https://streamlit.io/). You can ask natural language questions and get insights directly from your tables.
 
+
+### Deployed on Streamlit : https://chat-with-sql-db-langchain-vci6fcpjpf8bjdl3732rhi.streamlit.app/
 ---
 
 ## 🚀 Features
